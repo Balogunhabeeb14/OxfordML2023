@@ -2,7 +2,7 @@
 
 Welcome to the repository for the Oxford Machine Learning Summer School 2023! 
 
-This repository serves as a central hub for all the resources, materials, and information related to the last concluded summer school program.
+This repository serves as a central hub for all the resources, materials, and information related to the oxford Machine learning summer school 2023.
 
 ### About the Summer School
 
