@@ -6,17 +6,18 @@ This repository serves as a central hub for all the resources, materials, and in
 
 ### About the Summer School
 
-The Oxford Machine Learning Summer School is an intensive program that brings together experts, researchers, and students from diverse backgrounds to explore the fascinating world of machine learning and artificial intelligence. 
+The Oxford Machine Learning Summer School is an intensive program that brings together experts, researchers, and students from diverse backgrounds to explore the fascinating world of machine learning and artificial intelligence. There were two tracks, Finance & Natural Language Processing and Health.  
 
 ### Topics
-The summer school featured a comprehensive program covering a wide range of topics in application of machine learning in Finance and Health, different topics covered includes:
+The summer school featured a comprehensive program covering a wide range of topics in machine learning, including:
 
 - Deep Learning and Neural Networks
 - Natural Language Processing
 - Reinforcement Learning
 - Computer Vision
 - Bayesian Machine Learning
-- Quantum computing
+- Ethical AI and Responsible AI Development
+-
 - And much more!
 
 
