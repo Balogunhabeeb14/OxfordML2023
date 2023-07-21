@@ -17,7 +17,6 @@ The summer school featured a comprehensive program covering a wide range of topi
 - Computer Vision
 - Bayesian Machine Learning
 - Ethical AI and Responsible AI Development
--
 - And much more!
 
 
